@@ -1,7 +1,10 @@
 # TilingZoom
 
+
+https://github.com/user-attachments/assets/214e91bd-4245-4d78-b9d3-d921a6f22d18
+
 <video width="100%" autoplay loop muted playsinline>
-  <source src="./assets/preview.mp4" type="video/mp4" />
+  <source src="https://github.com/zhuyinheng/TilingZoom/raw/refs/heads/master/assets/preview.mp4" type="video/mp4" />
 </video>
 
 **TilingZoom** is a scalable tool for arranging 1,000+ videos (e.g., 1080P) on a single canvas, generating smooth zooming or sliding effects as shown above. To handle the memory demands (100GB+ for such video sets), videos are dynamically loaded instead of being fully loaded into memory.
